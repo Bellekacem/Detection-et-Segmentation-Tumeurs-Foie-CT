@@ -46,4 +46,4 @@ En raison d’un **contrat CIFRE** et des règles de propriété intellectuelle 
 
 ## 📬 Contact
 
-Pour plus d’informations ou une éventuelle collaboration, vous pouvez ouvrir une issue ou nous contacter directement.
+Pour plus d’informations ou une éventuelle collaboration, vous pouvez me contacter directement.
